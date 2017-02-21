@@ -1,0 +1,6 @@
+core
+db
+service
+shared.model
+shared.request
+shared.result

@@ -1,0 +1,2 @@
+#!/bin/bash
+vlc "`find ~/Downloads/music -iname *$1* -print -quit`"

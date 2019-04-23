@@ -1,2 +1,0 @@
-#!/bin/bash
-wget http://xaque.me/voish_modules/$1

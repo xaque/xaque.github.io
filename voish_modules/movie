@@ -1,2 +1,0 @@
-#!/bin/bash
-vlc --fullscreen "`find ~/Downloads/movies -iname *$1* -print -quit`"
